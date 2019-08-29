@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/S2omikuji/src/main/resources
+DefaultRootPackage=s2omikuji
+DefaultSrcPath=/S2omikuji/src/main/java
+ServletPath=S2omikuji
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
